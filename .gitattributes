@@ -1,0 +1,5 @@
+# Force LF for all text files
+* text eol=lf
+
+# Do not modify notebooks
+*.ipynb -text
